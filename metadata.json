@@ -1,0 +1,6 @@
+{
+  "name": "Bars R Us — BarCraft Mixology Academy & Virtual Bar",
+  "description": "Interactive virtual bar simulator, 300+ cocktail, wine, and craft beer codex, 10-minute Speed Rush shift trainer, 50-state alcohol law atlas, and AI Master Mixologist mentor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
